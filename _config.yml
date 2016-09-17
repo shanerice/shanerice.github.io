@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://ampknob.com
+title: Amp Knob
+subtitle: Turn your marketing up to 11!
+author: Shane Rice
 simple_search: https://www.google.com/search
 description:
 
