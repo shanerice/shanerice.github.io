@@ -3,6 +3,9 @@ body > header {
   h1 {
     display: inline-block;
     margin: 0;
+    position: absolute;
+    top: 1.5%;
+    left: 12%  
     a, a:visited, a:hover {
       color: $title_color;
       text-decoration: none;
@@ -16,9 +19,8 @@ body > header {
     font-weight: normal;
   }
   #logo {
-  max-width: 10%;
+  max-width: 8%;
   position: absolute;
-  top: 50%;
-  left: 50%;
+  top: 1.5%;
   }
 }
