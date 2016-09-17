@@ -3,7 +3,7 @@ body > header {
   h1 {
     display: inline-block;
     margin: 0;
-    left: 15%;
+    align: right;
     a, a:visited, a:hover {
       color: $title_color;
       text-decoration: none;
@@ -15,7 +15,7 @@ body > header {
     font-size: 1em;
     color: $subtitle-color;
     font-weight: normal;
-    left: 15%;
+    align: right;
   }
   #logo {
   max-width: 4%;
