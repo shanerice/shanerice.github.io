@@ -149,6 +149,15 @@ body.sidebar-footer {
       float: left;
     }
   }
+  #profile {
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size:cover;
+  }
   aside.sidebar {
     width: $sidebar-width-medium - $sidebar-pad-medium*2;
     padding: 0 $sidebar-pad-medium $sidebar-pad-medium;
@@ -189,4 +198,3 @@ body.sidebar-footer {
     ul, ol { margin-left: 0; }
   }
 }
-
