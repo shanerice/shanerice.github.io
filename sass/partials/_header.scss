@@ -1,11 +1,8 @@
 body > header {
   background: $header-bg;
   h1 {
-    width: 100%;
-    max-width: 640px;
-    left: 20%;
     display: inline-block;
-    margin: 0;
+    margin: 0 0 -10% 0;
     a, a:visited, a:hover {
       color: $title_color;
       text-decoration: none;
@@ -18,4 +15,8 @@ body > header {
     color: $subtitle-color;
     font-weight: normal;
   }
+}
+#logo {
+  display: inline-block;
+  width: 7%;
 }
