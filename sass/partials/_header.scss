@@ -1,6 +1,15 @@
 body > header {
   background: $header-bg;
   h1 {
+    top: 0px;
+    left:50%;
+    margin-left: -320px;
+    position: fixed;
+    background-color: grey;
+    width: 640px;
+    z-index: 1;
+    text-align: center;
+    display: block;
     display: inline-block;
     margin: 0;
     a, a:visited, a:hover {
