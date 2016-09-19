@@ -35,7 +35,7 @@ This penalty goes into effect January 10, 2017 so if you (or someone you know) a
 ## Set support hours for your Twitter handle
 Twitter announced this week they're going to let products set availability for their handles. You can mark your account as a 'Support Account' and set support hours in your settings.
 
-![Set Support account on Twitter](http://imgur.com/a/a1i6O)
+![Set Support account on Twitter](http://i.imgur.com/YGr6EXA.png)
 
 ## AdBlock Plus gets skeezy
 AdBlock Plus made it's name by blocking ads for users and this week courted controversy as they announced plans to test a programmatic ad platform within their Acceptable Ads program.
