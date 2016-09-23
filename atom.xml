@@ -4,7 +4,7 @@
   <title><![CDATA[Amp Knob]]></title>
   <link href="http://ampknob.com/atom.xml" rel="self"/>
   <link href="http://ampknob.com/"/>
-  <updated>2016-09-18T20:31:06-05:00</updated>
+  <updated>2016-09-23T13:44:36-05:00</updated>
   <id>http://ampknob.com/</id>
   <author>
     <name><![CDATA[Shane Rice]]></name>
@@ -12,6 +12,39 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Launching Ampknob]]></title>
+    <link href="http://ampknob.com/blog/launching-ampknob/"/>
+    <updated>2016-09-19T20:34:52-05:00</updated>
+    <id>http://ampknob.com/blog/launching-ampknob</id>
+    <content type="html"><![CDATA[<p>The idea for AmpKnob has been something I&rsquo;ve thought about for the last couple of months. I&rsquo;ve got an idea for ways to help small teams save time with a bunch of different marketing tasks.</p>
+
+<p>But to get there, I have to get started.</p>
+
+<p>The first step was setting up a landing page to connect with folks looking to keep up with marketing news and trends without having to think about marketing all the time. I started with a free landing page template from <a href="https://twitter.com/mijustin">Justin Jackson</a> but hit a snag when I tried to use Mailchimp to start my list. I had to setup DNS to forward an email to a domain I have email setup on Google Apps.</p>
+
+<p>Then I got distracted and let it sit there for a couple of weeks.</p>
+
+<p>Last week, I went to SumoCon and in addition to learning a ton of good things for my 9-5 job at <a href="http://wildbit.com">Wildbit</a> I was inspired to get off my ass and get started on this project. One of the little hacks I decided to use was to pay for at least one tool, and pay enough where it created a little pain. Which is why I decided to ditch Mailchimp for <a href="https://convertkit.com">Convert Kit</a>.</p>
+
+<p>Like every pretty much everyone who works online, I&rsquo;ve got a whole staple of domain names I&rsquo;ll get around to using one day. None of them were a great fit for this project, so I decided to come up with a new name. I was inspired by a video from Aaron Draplin where he sat down to design with pen and paper. I wasn&rsquo;t designing, but I thought it&rsquo;d help to get my ideas as fast as possible. This page kinda shows how I arrived at the name AmpKnob, minus running my idea past a few friends to make sure I was on to something that worked.</p>
+
+<p><img src="http://i.imgur.com/QwneUbe.jpg" alt="Thinking about AmpKnob on paper" /></p>
+
+<p>With Convert Kit setup, a new domain in hand, I finished the copy for the simple landing page I&rsquo;d been working on from Justin. Then I set it up to work on GitHub pages and tweeted it out.</p>
+
+<p>And 6 people signed up! How cool was that?!?!?</p>
+
+<p>As I thought about it more, I decided I need something more than a simple landing page and it would be good to have a site where I could quickly add new pages and maybe even blog a bit to fully take advantage of Convert Kit.</p>
+
+<p>So then I decided to get started with Octopress. I&rsquo;m not a developer, but I&rsquo;ve spent a lot of time getting to know some basics of Git marketing Beanstalk so I put those skills to work. It was a lot of trial and error Friday night, but by the time midnight rolled around I had a functioning site.</p>
+
+<p>Now you can look around and see I&rsquo;m not a designer but I know enough to know this rough. So I&rsquo;ll be slowly improving this site, working design things that bug me as I have time to break off some CSS or want to dig into the guts of Octopress to make it do more of what I want.</p>
+
+<p>But for now we&rsquo;re ready to send a weekly marketing newsletter. :-)</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[AmpKnob Newsletter: September 18, 2016]]></title>
