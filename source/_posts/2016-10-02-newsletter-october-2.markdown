@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AmpKnob Newsletter: September 25, 2016"
+title: "AmpKnob Newsletter: October 2, 2016"
 date: 2016-10-02 19:27:59 -0500
 comments: false
 categories: newsletter
