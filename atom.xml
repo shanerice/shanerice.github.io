@@ -4,7 +4,7 @@
   <title><![CDATA[Amp Knob]]></title>
   <link href="http://ampknob.com/atom.xml" rel="self"/>
   <link href="http://ampknob.com/"/>
-  <updated>2016-10-16T21:45:15-05:00</updated>
+  <updated>2016-10-16T21:46:33-05:00</updated>
   <id>http://ampknob.com/</id>
   <author>
     <name><![CDATA[Shane Rice]]></name>
@@ -18,7 +18,59 @@
     <link href="http://ampknob.com/blog/ampknob-newsletter-october-16/"/>
     <updated>2016-10-16T20:45:23-05:00</updated>
     <id>http://ampknob.com/blog/ampknob-newsletter-october-16</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<p>Howdy friends! It&rsquo;s been a week and it&rsquo;s time for the AmpKnob newsletter. We took my daughter on a trip for her birthday, and I&rsquo;ve been on the road all weekend. Jumping right to the news&hellip;</p>
+
+<h2>YouTube buys FameBit. Continues to suck up revenue from partners.</h2>
+
+<p><a href="http://www.cnbc.com/2016/10/11/google-buys-digital-marketing-company-famebit.html">I&rsquo;d never heard of FameBit until Google bought them this week</a>.</p>
+
+<p><a href="https://famebit.com">FameBit</a> is a platform for branded videos on YouTube and Instagram who&rsquo;ve helped create 250,000 video sponsorships. Companies set their budget and target audience, and FameBit connects them to video creators.</p>
+
+<p>I get why Google/YouTube is getting into this space, but if I owned a profitable YouTube channel it&rsquo;d add to my growing concern about the platform. YouTube wants to get in the middle of every revenue opportunity. The more they control, the less revenue my channel ends up gettting.</p>
+
+<h2>Facebook ad platform gets better and better</h2>
+
+<p>Look, if anyone is telling you Facebook doesn&rsquo;t work for B2B they&rsquo;re wrong. It might not work for their business, but I&rsquo;d bet money there&rsquo;s a way to make money with their business with Facebook ads.</p>
+
+<p>It might&rsquo;ve been true a few years ago, but Facebook is building an ad platform juggernaut. And while their platform isn&rsquo;t transparent like open-source, you can narrow your audience and target contextual behavior and interest you can&rsquo;t with AdWords.</p>
+
+<p>I&rsquo;ve got some more thoughts on all of this, but want to keep this focused on news. A couple of stories this week really drive home how impressive Facebook Ads are becoming.</p>
+
+<ol>
+<li>Audience Network gets a ranking upgrade
+First, late this week <a href="http://marketingland.com/facebook-will-rank-audience-network-publishers-ad-slots-price-accordingly-194602">Facebook announced they are going to start ranking their Audience Network ads based on the expected response</a>. This means advertisers will be charged based on what happens to clicks those sites generate.</li>
+</ol>
+
+
+<p>So if clicks generate bounces, those sites will get paid less than sites that generate quality visits for your website.</p>
+
+<p>Ad networks have traditionally been a terrible value, and Facebook has been no exception. I&rsquo;ve always turned these off to save money towards quality visits sent directly from Facebook or Google, but this change is worth investigating.</p>
+
+<ol>
+<li>Facebook halts ads in Thailand
+King Bhumibol Adulyadej died at 88 on Oct 13th.</li>
+</ol>
+
+
+<p><a href="https://www.washingtonpost.com/news/the-switch/wp/2016/10/14/why-facebook-suddenly-blacked-out-all-ads-in-thailand/#comments">Facebook suspended all ads for their users in Thailand for the duration of the formal month-long mourning period</a>. Analysts say this advertising generates somewhere near $6.8 million per month.</p>
+
+<p>It&rsquo;s a Thai tradition to remove all advertising during this formal mourning. Advertisers from Thailand would have probably recognized this on their own, but the suspension helps companies around the world avoid an embarrassing, and potentially costly, mistake.</p>
+
+<h2>FCC forces opt-in for ISP tracking</h2>
+
+<p>The <a href="http://arstechnica.com/information-technology/2016/10/fcc-proposes-broadband-privacy-rules-despite-opposition-from-isps/">FCC pissed off ISPs</a> by making it more difficult to share web browsing data with advertisers.</p>
+
+<p>ISPs are claiming this isn&rsquo;t fair because Google and other major sites collect this same data as advertisers.</p>
+
+<p>It&rsquo;s all bullshit and this is a good thing for consumers. ISPs are the worst.</p>
+
+<h2>Limit Ad Tracking is a hit with iPhone users</h2>
+
+<p>Apple uses a &lsquo;Identifier for Advertising&rsquo; or IDFA to deliver targeted ads to iOS users. The IDFA is a alphanumeric used per device. Before iOS 10, you could reset this IDFA.</p>
+
+<p>In iOS 10 you can turn it off completely and <a href="http://adage.com/article/digital/apple-ios-users-avoid-ad-targeting-apps-report/306263/">20% of iOS users in North America have opted out so far</a>.</p>
+
+<p>Not much to add to this story, but it&rsquo;s worth pointing out because targeted advertising works but we want to be in control of when we&rsquo;re targeted.</p>
 ]]></content>
   </entry>
   
