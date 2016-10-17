@@ -4,7 +4,7 @@
   <title><![CDATA[Amp Knob]]></title>
   <link href="http://ampknob.com/atom.xml" rel="self"/>
   <link href="http://ampknob.com/"/>
-  <updated>2016-10-09T21:18:45-05:00</updated>
+  <updated>2016-10-16T21:45:15-05:00</updated>
   <id>http://ampknob.com/</id>
   <author>
     <name><![CDATA[Shane Rice]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[AmpKnob Newsletter: October 16]]></title>
+    <link href="http://ampknob.com/blog/ampknob-newsletter-october-16/"/>
+    <updated>2016-10-16T20:45:23-05:00</updated>
+    <id>http://ampknob.com/blog/ampknob-newsletter-october-16</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[AmpKnob Newsletter: October 9, 2016]]></title>
