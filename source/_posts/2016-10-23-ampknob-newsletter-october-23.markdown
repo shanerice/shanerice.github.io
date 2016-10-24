@@ -46,4 +46,4 @@ It's funny, because it feels like a joke to anyone my age who grew up playing th
 
 The laughing stops right about there.
 
-Activision's CEO was in the news this week when he announced ActivisionBlizzard has 500 million active monthly users in 196 countries. That's more active monthly users than Netflix. Five times more. If your audience plays video games, eSports is something to keep an eye on.
+Activision's CEO was in the news this week when he announced [ActivisionBlizzard has 500 million active monthly users in 196 countries](http://www.espn.com/esports/story/_/id/17844105/activision-blizzard-ceo-bobby-kotick-confirms-overwatch-league). That's more active monthly users than Netflix. Five times more. If your audience plays video games, eSports is something to keep an eye on.
